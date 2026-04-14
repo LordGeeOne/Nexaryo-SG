@@ -1,0 +1,827 @@
+Icon names:
+
+-Path "C:\Users\kwane\AppData\Local\Pub\Cache\hosted\pub.dev\hugeicons-1.1.6\lib
+\hugeicons.dart" -Pattern "strokeRounded(Home|ArrowLeft|ArrowRight|Menu01|Menu|C
+ancel|MoreVertical|Search|Share|Copy|Tick|Refresh|Play|Pause|Next|Previous|Shuff
+le|Repeat|Volume|Music|Notification|Mail|Chat|User|Send|Settings|Moon|Globe|Lock
+|Edit|Delete|Help|Information|Heart|Star|Bell)" -AllMatches | ForEach-Object { (
+$_.Line.Trim() -split ' = ')[0] -replace 'static const List<List<dynamic>> ', ''
+ } | Sort-Object -Unique
+HugeIconsStrokeRounded.strokeRoundedArrowLeft01;
+HugeIconsStrokeRounded.strokeRoundedArrowLeft02;
+HugeIconsStrokeRounded.strokeRoundedArrowLeft03;
+HugeIconsStrokeRounded.strokeRoundedArrowLeft04;
+HugeIconsStrokeRounded.strokeRoundedArrowLeft05;
+HugeIconsStrokeRounded.strokeRoundedArrowLeftBig;
+HugeIconsStrokeRounded.strokeRoundedArrowLeftDouble;
+HugeIconsStrokeRounded.strokeRoundedArrowLeftRight;
+HugeIconsStrokeRounded.strokeRoundedArrowRight01;
+HugeIconsStrokeRounded.strokeRoundedArrowRight02;
+HugeIconsStrokeRounded.strokeRoundedArrowRight03;
+HugeIconsStrokeRounded.strokeRoundedArrowRight04;
+HugeIconsStrokeRounded.strokeRoundedArrowRight05;
+HugeIconsStrokeRounded.strokeRoundedArrowRightBig;
+HugeIconsStrokeRounded.strokeRoundedArrowRightDouble;
+HugeIconsStrokeRounded.strokeRoundedBellDot;
+HugeIconsStrokeRounded.strokeRoundedBellElectric;
+HugeIconsStrokeRounded.strokeRoundedCancel01;
+HugeIconsStrokeRounded.strokeRoundedCancel02;
+HugeIconsStrokeRounded.strokeRoundedCancelCircle;
+HugeIconsStrokeRounded.strokeRoundedCancelCircleHalfDot;
+HugeIconsStrokeRounded.strokeRoundedCancelSquare;
+HugeIconsStrokeRounded.strokeRoundedChat;
+HugeIconsStrokeRounded.strokeRoundedChat01;
+HugeIconsStrokeRounded.strokeRoundedChatAdd;
+HugeIconsStrokeRounded.strokeRoundedChatAdd01;
+HugeIconsStrokeRounded.strokeRoundedChatBlocked;
+HugeIconsStrokeRounded.strokeRoundedChatBlocked01;
+HugeIconsStrokeRounded.strokeRoundedChatBot;
+HugeIconsStrokeRounded.strokeRoundedChatCancel;
+HugeIconsStrokeRounded.strokeRoundedChatCancel01;
+HugeIconsStrokeRounded.strokeRoundedChatDelay;
+HugeIconsStrokeRounded.strokeRoundedChatDelay01;
+HugeIconsStrokeRounded.strokeRoundedChatDone;
+HugeIconsStrokeRounded.strokeRoundedChatDone01;
+HugeIconsStrokeRounded.strokeRoundedChatDownload;
+HugeIconsStrokeRounded.strokeRoundedChatDownload01;
+HugeIconsStrokeRounded.strokeRoundedChatEdit;
+HugeIconsStrokeRounded.strokeRoundedChatEdit01;
+HugeIconsStrokeRounded.strokeRoundedChatFavourite;
+HugeIconsStrokeRounded.strokeRoundedChatFavourite01;
+HugeIconsStrokeRounded.strokeRoundedChatFeedback;
+HugeIconsStrokeRounded.strokeRoundedChatFeedback01;
+HugeIconsStrokeRounded.strokeRoundedChatGpt;
+HugeIconsStrokeRounded.strokeRoundedChatIncome;
+HugeIconsStrokeRounded.strokeRoundedChatIncome01;
+HugeIconsStrokeRounded.strokeRoundedChatLock;
+HugeIconsStrokeRounded.strokeRoundedChatLock01;
+HugeIconsStrokeRounded.strokeRoundedChatNotification;
+HugeIconsStrokeRounded.strokeRoundedChatNotification01;
+HugeIconsStrokeRounded.strokeRoundedChatOutcome;
+HugeIconsStrokeRounded.strokeRoundedChatOutcome01;
+HugeIconsStrokeRounded.strokeRoundedChatPreview;
+HugeIconsStrokeRounded.strokeRoundedChatPreview01;
+HugeIconsStrokeRounded.strokeRoundedChatQuestion;
+HugeIconsStrokeRounded.strokeRoundedChatQuestion01;
+HugeIconsStrokeRounded.strokeRoundedChatSearch;
+HugeIconsStrokeRounded.strokeRoundedChatSearch01;
+HugeIconsStrokeRounded.strokeRoundedChatSecure;
+HugeIconsStrokeRounded.strokeRoundedChatSecure01;
+HugeIconsStrokeRounded.strokeRoundedChatSpark;
+HugeIconsStrokeRounded.strokeRoundedChatSpark01;
+HugeIconsStrokeRounded.strokeRoundedChatting01;
+HugeIconsStrokeRounded.strokeRoundedChatTranslate;
+HugeIconsStrokeRounded.strokeRoundedChatTranslate01;
+HugeIconsStrokeRounded.strokeRoundedChatUnlock;
+HugeIconsStrokeRounded.strokeRoundedChatUnlock01;
+HugeIconsStrokeRounded.strokeRoundedChatUpload;
+HugeIconsStrokeRounded.strokeRoundedChatUpload01;
+HugeIconsStrokeRounded.strokeRoundedChatUser;
+HugeIconsStrokeRounded.strokeRoundedChatUser01;
+HugeIconsStrokeRounded.strokeRoundedCopy;
+HugeIconsStrokeRounded.strokeRoundedCopy01;
+HugeIconsStrokeRounded.strokeRoundedCopy02;
+HugeIconsStrokeRounded.strokeRoundedCopyCheck;
+HugeIconsStrokeRounded.strokeRoundedCopyleft;
+HugeIconsStrokeRounded.strokeRoundedCopyLink;
+HugeIconsStrokeRounded.strokeRoundedCopyMinus;
+HugeIconsStrokeRounded.strokeRoundedCopyPlus;
+HugeIconsStrokeRounded.strokeRoundedCopyright;
+HugeIconsStrokeRounded.strokeRoundedCopySlash;
+HugeIconsStrokeRounded.strokeRoundedDelete01;
+HugeIconsStrokeRounded.strokeRoundedDelete02;
+HugeIconsStrokeRounded.strokeRoundedDelete03;
+HugeIconsStrokeRounded.strokeRoundedDelete04;
+HugeIconsStrokeRounded.strokeRoundedDeleteColumn;
+HugeIconsStrokeRounded.strokeRoundedDeletePutBack;
+HugeIconsStrokeRounded.strokeRoundedDeleteRow;
+HugeIconsStrokeRounded.strokeRoundedDeleteThrow;
+HugeIconsStrokeRounded.strokeRoundedEdit01;
+HugeIconsStrokeRounded.strokeRoundedEdit02;
+HugeIconsStrokeRounded.strokeRoundedEdit03;
+HugeIconsStrokeRounded.strokeRoundedEdit04;
+HugeIconsStrokeRounded.strokeRoundedEditOff;
+HugeIconsStrokeRounded.strokeRoundedEditOff03;
+HugeIconsStrokeRounded.strokeRoundedEditOff04;
+HugeIconsStrokeRounded.strokeRoundedEditRoad;
+HugeIconsStrokeRounded.strokeRoundedEditTable;
+HugeIconsStrokeRounded.strokeRoundedEditUser02;
+HugeIconsStrokeRounded.strokeRoundedGlobe;
+HugeIconsStrokeRounded.strokeRoundedGlobe02;
+HugeIconsStrokeRounded.strokeRoundedGlobeX;
+HugeIconsStrokeRounded.strokeRoundedHeartAdd;
+HugeIconsStrokeRounded.strokeRoundedHeartbreak;
+HugeIconsStrokeRounded.strokeRoundedHeartCheck;
+HugeIconsStrokeRounded.strokeRoundedHeartMinus;
+HugeIconsStrokeRounded.strokeRoundedHeartRemove;
+HugeIconsStrokeRounded.strokeRoundedHelpCircle;
+HugeIconsStrokeRounded.strokeRoundedHelpSquare;
+HugeIconsStrokeRounded.strokeRoundedHome01;
+HugeIconsStrokeRounded.strokeRoundedHome02;
+HugeIconsStrokeRounded.strokeRoundedHome03;
+HugeIconsStrokeRounded.strokeRoundedHome04;
+HugeIconsStrokeRounded.strokeRoundedHome05;
+HugeIconsStrokeRounded.strokeRoundedHome06;
+HugeIconsStrokeRounded.strokeRoundedHome07;
+HugeIconsStrokeRounded.strokeRoundedHome08;
+HugeIconsStrokeRounded.strokeRoundedHome09;
+HugeIconsStrokeRounded.strokeRoundedHome10;
+HugeIconsStrokeRounded.strokeRoundedHome11;
+HugeIconsStrokeRounded.strokeRoundedHome12;
+HugeIconsStrokeRounded.strokeRoundedHome13;
+HugeIconsStrokeRounded.strokeRoundedHomeWifi;
+HugeIconsStrokeRounded.strokeRoundedInformationCircle;
+HugeIconsStrokeRounded.strokeRoundedInformationDiamond;
+HugeIconsStrokeRounded.strokeRoundedInformationSquare;
+HugeIconsStrokeRounded.strokeRoundedLock;
+HugeIconsStrokeRounded.strokeRoundedLockComputer;
+HugeIconsStrokeRounded.strokeRoundedLocked;
+HugeIconsStrokeRounded.strokeRoundedLocker;
+HugeIconsStrokeRounded.strokeRoundedLocker01;
+HugeIconsStrokeRounded.strokeRoundedLockKey;
+HugeIconsStrokeRounded.strokeRoundedLockPassword;
+HugeIconsStrokeRounded.strokeRoundedLockSync01;
+HugeIconsStrokeRounded.strokeRoundedLockSync02;
+HugeIconsStrokeRounded.strokeRoundedMail01;
+HugeIconsStrokeRounded.strokeRoundedMail02;
+HugeIconsStrokeRounded.strokeRoundedMailAccount01;
+HugeIconsStrokeRounded.strokeRoundedMailAccount02;
+HugeIconsStrokeRounded.strokeRoundedMailAdd01;
+HugeIconsStrokeRounded.strokeRoundedMailAdd02;
+HugeIconsStrokeRounded.strokeRoundedMailAtSign01;
+HugeIconsStrokeRounded.strokeRoundedMailAtSign02;
+HugeIconsStrokeRounded.strokeRoundedMailBlock01;
+HugeIconsStrokeRounded.strokeRoundedMailBlock02;
+HugeIconsStrokeRounded.strokeRoundedMailbox;
+HugeIconsStrokeRounded.strokeRoundedMailbox01;
+HugeIconsStrokeRounded.strokeRoundedMailDownload01;
+HugeIconsStrokeRounded.strokeRoundedMailDownload02;
+HugeIconsStrokeRounded.strokeRoundedMailEdit01;
+HugeIconsStrokeRounded.strokeRoundedMailEdit02;
+HugeIconsStrokeRounded.strokeRoundedMailLock01;
+HugeIconsStrokeRounded.strokeRoundedMailLock02;
+HugeIconsStrokeRounded.strokeRoundedMailLove01;
+HugeIconsStrokeRounded.strokeRoundedMailLove02;
+HugeIconsStrokeRounded.strokeRoundedMailMinus01;
+HugeIconsStrokeRounded.strokeRoundedMailMinus02;
+HugeIconsStrokeRounded.strokeRoundedMailOpen;
+HugeIconsStrokeRounded.strokeRoundedMailOpen01;
+HugeIconsStrokeRounded.strokeRoundedMailOpen02;
+HugeIconsStrokeRounded.strokeRoundedMailOpenLove;
+HugeIconsStrokeRounded.strokeRoundedMailQuestionMark;
+HugeIconsStrokeRounded.strokeRoundedMailReceive01;
+HugeIconsStrokeRounded.strokeRoundedMailReceive02;
+HugeIconsStrokeRounded.strokeRoundedMailRemove01;
+HugeIconsStrokeRounded.strokeRoundedMailRemove02;
+HugeIconsStrokeRounded.strokeRoundedMailReply01;
+HugeIconsStrokeRounded.strokeRoundedMailReply02;
+HugeIconsStrokeRounded.strokeRoundedMailReplyAll01;
+HugeIconsStrokeRounded.strokeRoundedMailReplyAll02;
+HugeIconsStrokeRounded.strokeRoundedMails;
+HugeIconsStrokeRounded.strokeRoundedMailSearch01;
+HugeIconsStrokeRounded.strokeRoundedMailSearch02;
+HugeIconsStrokeRounded.strokeRoundedMailSecure01;
+HugeIconsStrokeRounded.strokeRoundedMailSecure02;
+HugeIconsStrokeRounded.strokeRoundedMailSend01;
+HugeIconsStrokeRounded.strokeRoundedMailSend02;
+HugeIconsStrokeRounded.strokeRoundedMailSetting01;
+HugeIconsStrokeRounded.strokeRoundedMailSetting02;
+HugeIconsStrokeRounded.strokeRoundedMailUnlock01;
+HugeIconsStrokeRounded.strokeRoundedMailUnlock02;
+HugeIconsStrokeRounded.strokeRoundedMailUpload01;
+HugeIconsStrokeRounded.strokeRoundedMailUpload02;
+HugeIconsStrokeRounded.strokeRoundedMailValidation01;
+HugeIconsStrokeRounded.strokeRoundedMailValidation02;
+HugeIconsStrokeRounded.strokeRoundedMailVoice01;
+HugeIconsStrokeRounded.strokeRoundedMailVoice02;
+HugeIconsStrokeRounded.strokeRoundedMailWarning;
+HugeIconsStrokeRounded.strokeRoundedMenu01;
+HugeIconsStrokeRounded.strokeRoundedMenu02;
+HugeIconsStrokeRounded.strokeRoundedMenu03;
+HugeIconsStrokeRounded.strokeRoundedMenu04;
+HugeIconsStrokeRounded.strokeRoundedMenu05;
+HugeIconsStrokeRounded.strokeRoundedMenu06;
+HugeIconsStrokeRounded.strokeRoundedMenu07;
+HugeIconsStrokeRounded.strokeRoundedMenu08;
+HugeIconsStrokeRounded.strokeRoundedMenu09;
+HugeIconsStrokeRounded.strokeRoundedMenu10;
+HugeIconsStrokeRounded.strokeRoundedMenu11;
+HugeIconsStrokeRounded.strokeRoundedMenuCircle;
+HugeIconsStrokeRounded.strokeRoundedMenuCollapse;
+HugeIconsStrokeRounded.strokeRoundedMenuRestaurant;
+HugeIconsStrokeRounded.strokeRoundedMenuSquare;
+HugeIconsStrokeRounded.strokeRoundedMenuTwoLine;
+HugeIconsStrokeRounded.strokeRoundedMoon;
+HugeIconsStrokeRounded.strokeRoundedMoon01;
+HugeIconsStrokeRounded.strokeRoundedMoon02;
+HugeIconsStrokeRounded.strokeRoundedMoonAngledRainZap;
+HugeIconsStrokeRounded.strokeRoundedMoonCloud;
+HugeIconsStrokeRounded.strokeRoundedMoonCloudAngledRain;
+HugeIconsStrokeRounded.strokeRoundedMoonCloudAngledZap;
+HugeIconsStrokeRounded.strokeRoundedMoonCloudBigRain;
+HugeIconsStrokeRounded.strokeRoundedMoonCloudFastWind;
+HugeIconsStrokeRounded.strokeRoundedMoonCloudHailstone;
+HugeIconsStrokeRounded.strokeRoundedMoonCloudLittleRain;
+HugeIconsStrokeRounded.strokeRoundedMoonCloudLittleSnow;
+HugeIconsStrokeRounded.strokeRoundedMoonCloudMidRain;
+HugeIconsStrokeRounded.strokeRoundedMoonCloudMidSnow;
+HugeIconsStrokeRounded.strokeRoundedMoonCloudSlowWind;
+HugeIconsStrokeRounded.strokeRoundedMoonCloudSnow;
+HugeIconsStrokeRounded.strokeRoundedMoonEclipse;
+HugeIconsStrokeRounded.strokeRoundedMoonFastWind;
+HugeIconsStrokeRounded.strokeRoundedMoonLanding;
+HugeIconsStrokeRounded.strokeRoundedMoonset;
+HugeIconsStrokeRounded.strokeRoundedMoonSlowWind;
+HugeIconsStrokeRounded.strokeRoundedMoreVertical;
+HugeIconsStrokeRounded.strokeRoundedMoreVerticalCircle01;
+HugeIconsStrokeRounded.strokeRoundedMoreVerticalCircle02;
+HugeIconsStrokeRounded.strokeRoundedMoreVerticalSquare01;
+HugeIconsStrokeRounded.strokeRoundedMoreVerticalSquare02;
+HugeIconsStrokeRounded.strokeRoundedMusic3;
+HugeIconsStrokeRounded.strokeRoundedMusicNote01;
+HugeIconsStrokeRounded.strokeRoundedMusicNote02;
+HugeIconsStrokeRounded.strokeRoundedMusicNote03;
+HugeIconsStrokeRounded.strokeRoundedMusicNote04;
+HugeIconsStrokeRounded.strokeRoundedMusicNoteSquare01;
+HugeIconsStrokeRounded.strokeRoundedMusicNoteSquare02;
+HugeIconsStrokeRounded.strokeRoundedNext;
+HugeIconsStrokeRounded.strokeRoundedNextWeek;
+HugeIconsStrokeRounded.strokeRoundedNotification01;
+HugeIconsStrokeRounded.strokeRoundedNotification02;
+HugeIconsStrokeRounded.strokeRoundedNotification03;
+HugeIconsStrokeRounded.strokeRoundedNotificationBlock01;
+HugeIconsStrokeRounded.strokeRoundedNotificationBlock02;
+HugeIconsStrokeRounded.strokeRoundedNotificationBlock03;
+HugeIconsStrokeRounded.strokeRoundedNotificationBubble;
+HugeIconsStrokeRounded.strokeRoundedNotificationCircle;
+HugeIconsStrokeRounded.strokeRoundedNotificationOff01;
+HugeIconsStrokeRounded.strokeRoundedNotificationOff02;
+HugeIconsStrokeRounded.strokeRoundedNotificationOff03;
+HugeIconsStrokeRounded.strokeRoundedNotificationSnooze01;
+HugeIconsStrokeRounded.strokeRoundedNotificationSnooze02;
+HugeIconsStrokeRounded.strokeRoundedNotificationSnooze03;
+HugeIconsStrokeRounded.strokeRoundedNotificationSquare;
+HugeIconsStrokeRounded.strokeRoundedPause;
+HugeIconsStrokeRounded.strokeRoundedPauseCircle;
+HugeIconsStrokeRounded.strokeRoundedPlay;
+HugeIconsStrokeRounded.strokeRoundedPlayCircle;
+HugeIconsStrokeRounded.strokeRoundedPlayCircle02;
+HugeIconsStrokeRounded.strokeRoundedPlayList;
+HugeIconsStrokeRounded.strokeRoundedPlaylist01;
+HugeIconsStrokeRounded.strokeRoundedPlaylist02;
+HugeIconsStrokeRounded.strokeRoundedPlaylist03;
+HugeIconsStrokeRounded.strokeRoundedPlayListAdd;
+HugeIconsStrokeRounded.strokeRoundedPlayListFavourite01;
+HugeIconsStrokeRounded.strokeRoundedPlayListFavourite02;
+HugeIconsStrokeRounded.strokeRoundedPlayListMinus;
+HugeIconsStrokeRounded.strokeRoundedPlayListRemove;
+HugeIconsStrokeRounded.strokeRoundedPlaySquare;
+HugeIconsStrokeRounded.strokeRoundedPlayStore;
+HugeIconsStrokeRounded.strokeRoundedPrevious;
+HugeIconsStrokeRounded.strokeRoundedRefresh;
+HugeIconsStrokeRounded.strokeRoundedRefresh01;
+HugeIconsStrokeRounded.strokeRoundedRefresh03;
+HugeIconsStrokeRounded.strokeRoundedRefresh04;
+HugeIconsStrokeRounded.strokeRoundedRefreshDot;
+HugeIconsStrokeRounded.strokeRoundedRepeat;
+HugeIconsStrokeRounded.strokeRoundedRepeatOff;
+HugeIconsStrokeRounded.strokeRoundedRepeatOne01;
+HugeIconsStrokeRounded.strokeRoundedRepeatOne02;
+HugeIconsStrokeRounded.strokeRoundedSearch01;
+HugeIconsStrokeRounded.strokeRoundedSearch02;
+HugeIconsStrokeRounded.strokeRoundedSearchAdd;
+HugeIconsStrokeRounded.strokeRoundedSearchArea;
+HugeIconsStrokeRounded.strokeRoundedSearchCircle;
+HugeIconsStrokeRounded.strokeRoundedSearchCode;
+HugeIconsStrokeRounded.strokeRoundedSearchDollar;
+HugeIconsStrokeRounded.strokeRoundedSearchFocus;
+HugeIconsStrokeRounded.strokeRoundedSearching;
+HugeIconsStrokeRounded.strokeRoundedSearchList01;
+HugeIconsStrokeRounded.strokeRoundedSearchList02;
+HugeIconsStrokeRounded.strokeRoundedSearchMinus;
+HugeIconsStrokeRounded.strokeRoundedSearchRemove;
+HugeIconsStrokeRounded.strokeRoundedSearchReplace;
+HugeIconsStrokeRounded.strokeRoundedSearchSquare;
+HugeIconsStrokeRounded.strokeRoundedSearchVisual;
+HugeIconsStrokeRounded.strokeRoundedSendingOrder;
+HugeIconsStrokeRounded.strokeRoundedSendToBack;
+HugeIconsStrokeRounded.strokeRoundedSendToMobile;
+HugeIconsStrokeRounded.strokeRoundedSendToMobile02;
+HugeIconsStrokeRounded.strokeRoundedSettings01;
+HugeIconsStrokeRounded.strokeRoundedSettings02;
+HugeIconsStrokeRounded.strokeRoundedSettings03;
+HugeIconsStrokeRounded.strokeRoundedSettings04;
+HugeIconsStrokeRounded.strokeRoundedSettings05;
+HugeIconsStrokeRounded.strokeRoundedSettingsError01;
+HugeIconsStrokeRounded.strokeRoundedSettingsError02;
+HugeIconsStrokeRounded.strokeRoundedShare01;
+HugeIconsStrokeRounded.strokeRoundedShare02;
+HugeIconsStrokeRounded.strokeRoundedShare03;
+HugeIconsStrokeRounded.strokeRoundedShare04;
+HugeIconsStrokeRounded.strokeRoundedShare05;
+HugeIconsStrokeRounded.strokeRoundedShare06;
+HugeIconsStrokeRounded.strokeRoundedShare07;
+HugeIconsStrokeRounded.strokeRoundedShare08;
+HugeIconsStrokeRounded.strokeRoundedSharedDrive;
+HugeIconsStrokeRounded.strokeRoundedSharedWifi;
+HugeIconsStrokeRounded.strokeRoundedShareKnowledge;
+HugeIconsStrokeRounded.strokeRoundedShareLocation01;
+HugeIconsStrokeRounded.strokeRoundedShareLocation02;
+HugeIconsStrokeRounded.strokeRoundedShuffle;
+HugeIconsStrokeRounded.strokeRoundedShuffleSquare;
+HugeIconsStrokeRounded.strokeRoundedStar;
+HugeIconsStrokeRounded.strokeRoundedStarAward01;
+HugeIconsStrokeRounded.strokeRoundedStarAward02;
+HugeIconsStrokeRounded.strokeRoundedStarCircle;
+HugeIconsStrokeRounded.strokeRoundedStarFace;
+HugeIconsStrokeRounded.strokeRoundedStarHalf;
+HugeIconsStrokeRounded.strokeRoundedStarOff;
+HugeIconsStrokeRounded.strokeRoundedStars;
+HugeIconsStrokeRounded.strokeRoundedStarSquare;
+HugeIconsStrokeRounded.strokeRoundedStartUp01;
+HugeIconsStrokeRounded.strokeRoundedStartUp02;
+HugeIconsStrokeRounded.strokeRoundedTick01;
+HugeIconsStrokeRounded.strokeRoundedTick02;
+HugeIconsStrokeRounded.strokeRoundedTick03;
+HugeIconsStrokeRounded.strokeRoundedTick04;
+HugeIconsStrokeRounded.strokeRoundedTickDouble01;
+HugeIconsStrokeRounded.strokeRoundedTickDouble02;
+HugeIconsStrokeRounded.strokeRoundedTickDouble03;
+HugeIconsStrokeRounded.strokeRoundedTickDouble04;
+HugeIconsStrokeRounded.strokeRoundedTicket01;
+HugeIconsStrokeRounded.strokeRoundedTicket02;
+HugeIconsStrokeRounded.strokeRoundedTicket03;
+HugeIconsStrokeRounded.strokeRoundedTicketStar;
+HugeIconsStrokeRounded.strokeRoundedUser;
+HugeIconsStrokeRounded.strokeRoundedUser02;
+HugeIconsStrokeRounded.strokeRoundedUser03;
+HugeIconsStrokeRounded.strokeRoundedUserAccount;
+HugeIconsStrokeRounded.strokeRoundedUserAdd01;
+HugeIconsStrokeRounded.strokeRoundedUserAdd02;
+HugeIconsStrokeRounded.strokeRoundedUserAi;
+HugeIconsStrokeRounded.strokeRoundedUserArrowLeftRight;
+HugeIconsStrokeRounded.strokeRoundedUserBlock01;
+HugeIconsStrokeRounded.strokeRoundedUserBlock02;
+HugeIconsStrokeRounded.strokeRoundedUserCheck01;
+HugeIconsStrokeRounded.strokeRoundedUserCheck02;
+HugeIconsStrokeRounded.strokeRoundedUserCircle;
+HugeIconsStrokeRounded.strokeRoundedUserCircle02;
+HugeIconsStrokeRounded.strokeRoundedUserDollar;
+HugeIconsStrokeRounded.strokeRoundedUserEdit01;
+HugeIconsStrokeRounded.strokeRoundedUserFullView;
+HugeIconsStrokeRounded.strokeRoundedUserGroup;
+HugeIconsStrokeRounded.strokeRoundedUserGroup02;
+HugeIconsStrokeRounded.strokeRoundedUserGroup03;
+HugeIconsStrokeRounded.strokeRoundedUserIdVerification;
+HugeIconsStrokeRounded.strokeRoundedUserList;
+HugeIconsStrokeRounded.strokeRoundedUserLock01;
+HugeIconsStrokeRounded.strokeRoundedUserLock02;
+HugeIconsStrokeRounded.strokeRoundedUserLove01;
+HugeIconsStrokeRounded.strokeRoundedUserLove02;
+HugeIconsStrokeRounded.strokeRoundedUserMinus01;
+HugeIconsStrokeRounded.strokeRoundedUserMinus02;
+HugeIconsStrokeRounded.strokeRoundedUserMultiple;
+HugeIconsStrokeRounded.strokeRoundedUserMultiple02;
+HugeIconsStrokeRounded.strokeRoundedUserMultiple03;
+HugeIconsStrokeRounded.strokeRoundedUserQuestion01;
+HugeIconsStrokeRounded.strokeRoundedUserQuestion02;
+HugeIconsStrokeRounded.strokeRoundedUserRemove01;
+HugeIconsStrokeRounded.strokeRoundedUserRemove02;
+HugeIconsStrokeRounded.strokeRoundedUserRoadside;
+HugeIconsStrokeRounded.strokeRoundedUserSearch01;
+HugeIconsStrokeRounded.strokeRoundedUserSearch02;
+HugeIconsStrokeRounded.strokeRoundedUserSettings01;
+HugeIconsStrokeRounded.strokeRoundedUserSettings02;
+HugeIconsStrokeRounded.strokeRoundedUserSharing;
+HugeIconsStrokeRounded.strokeRoundedUserShield01;
+HugeIconsStrokeRounded.strokeRoundedUserShield02;
+HugeIconsStrokeRounded.strokeRoundedUserSquare;
+HugeIconsStrokeRounded.strokeRoundedUserStar01;
+HugeIconsStrokeRounded.strokeRoundedUserStar02;
+HugeIconsStrokeRounded.strokeRoundedUserStatus;
+HugeIconsStrokeRounded.strokeRoundedUserStory;
+HugeIconsStrokeRounded.strokeRoundedUserSwitch;
+HugeIconsStrokeRounded.strokeRoundedUserTime01;
+HugeIconsStrokeRounded.strokeRoundedUserTime02;
+HugeIconsStrokeRounded.strokeRoundedUserTime03;
+HugeIconsStrokeRounded.strokeRoundedUserUnlock01;
+HugeIconsStrokeRounded.strokeRoundedUserUnlock02;
+HugeIconsStrokeRounded.strokeRoundedUserWarning01;
+HugeIconsStrokeRounded.strokeRoundedUserWarning02;
+HugeIconsStrokeRounded.strokeRoundedUserWarning03;
+HugeIconsStrokeRounded.strokeRoundedVolumeHigh;
+HugeIconsStrokeRounded.strokeRoundedVolumeLow;
+HugeIconsStrokeRounded.strokeRoundedVolumeMinus;
+HugeIconsStrokeRounded.strokeRoundedVolumeMute01;
+HugeIconsStrokeRounded.strokeRoundedVolumeMute02;
+HugeIconsStrokeRounded.strokeRoundedVolumeOff;
+HugeIconsStrokeRounded.strokeRoundedVolumeUp;
+strokeRoundedArrowLeft01 =
+strokeRoundedArrowLeft02 =
+strokeRoundedArrowLeft03 =
+strokeRoundedArrowLeft04 =
+strokeRoundedArrowLeft05 =
+strokeRoundedArrowLeftBig =
+strokeRoundedArrowLeftDouble =
+strokeRoundedArrowLeftRight =
+strokeRoundedArrowRight01 =
+strokeRoundedArrowRight02 =
+strokeRoundedArrowRight03 =
+strokeRoundedArrowRight04 =
+strokeRoundedArrowRight05 =
+strokeRoundedArrowRightBig =
+strokeRoundedArrowRightDouble =
+strokeRoundedBellDot =
+strokeRoundedBellElectric =
+strokeRoundedCancel01 =
+strokeRoundedCancel02 =
+strokeRoundedCancelCircle =
+strokeRoundedCancelCircleHalfDot =
+strokeRoundedCancelSquare =
+strokeRoundedChat =
+strokeRoundedChat01 =
+strokeRoundedChatAdd =
+strokeRoundedChatAdd01 =
+strokeRoundedChatBlocked =
+strokeRoundedChatBlocked01 =
+strokeRoundedChatBot =
+strokeRoundedChatCancel =
+strokeRoundedChatCancel01 =
+strokeRoundedChatDelay =
+strokeRoundedChatDelay01 =
+strokeRoundedChatDone =
+strokeRoundedChatDone01 =
+strokeRoundedChatDownload =
+strokeRoundedChatDownload01 =
+strokeRoundedChatEdit =
+strokeRoundedChatEdit01 =
+strokeRoundedChatFavourite =
+strokeRoundedChatFavourite01 =
+strokeRoundedChatFeedback =
+strokeRoundedChatFeedback01 =
+strokeRoundedChatGpt =
+strokeRoundedChatIncome =
+strokeRoundedChatIncome01 =
+strokeRoundedChatLock =
+strokeRoundedChatLock01 =
+strokeRoundedChatNotification =
+strokeRoundedChatNotification01 =
+strokeRoundedChatOutcome =
+strokeRoundedChatOutcome01 =
+strokeRoundedChatPreview =
+strokeRoundedChatPreview01 =
+strokeRoundedChatQuestion =
+strokeRoundedChatQuestion01 =
+strokeRoundedChatSearch =
+strokeRoundedChatSearch01 =
+strokeRoundedChatSecure =
+strokeRoundedChatSecure01 =
+strokeRoundedChatSpark =
+strokeRoundedChatSpark01 =
+strokeRoundedChatting01 =
+strokeRoundedChatTranslate =
+strokeRoundedChatTranslate01 =
+strokeRoundedChatUnlock =
+strokeRoundedChatUnlock01 =
+strokeRoundedChatUpload =
+strokeRoundedChatUpload01 =
+strokeRoundedChatUser =
+strokeRoundedChatUser01 =
+strokeRoundedCopy =
+strokeRoundedCopy01 =
+strokeRoundedCopy02 =
+strokeRoundedCopyCheck =
+strokeRoundedCopyleft =
+strokeRoundedCopyLink =
+strokeRoundedCopyMinus =
+strokeRoundedCopyPlus =
+strokeRoundedCopyright =
+strokeRoundedCopySlash =
+strokeRoundedDelete01 =
+strokeRoundedDelete02 =
+strokeRoundedDelete03 =
+strokeRoundedDelete04 =
+strokeRoundedDeleteColumn =
+strokeRoundedDeletePutBack =
+strokeRoundedDeleteRow =
+strokeRoundedDeleteThrow =
+strokeRoundedEdit01 =
+strokeRoundedEdit02 =
+strokeRoundedEdit03 =
+strokeRoundedEdit04 =
+strokeRoundedEditOff =
+strokeRoundedEditOff03 =
+strokeRoundedEditOff04 =
+strokeRoundedEditRoad =
+strokeRoundedEditTable =
+strokeRoundedEditUser02 =
+strokeRoundedGlobe =
+strokeRoundedGlobe02 =
+strokeRoundedGlobeX =
+strokeRoundedHeartAdd =
+strokeRoundedHeartbreak =
+strokeRoundedHeartCheck =
+strokeRoundedHeartMinus =
+strokeRoundedHeartRemove =
+strokeRoundedHelpCircle =
+strokeRoundedHelpSquare =
+strokeRoundedHome01 =
+strokeRoundedHome02 =
+strokeRoundedHome03 =
+strokeRoundedHome04 =
+strokeRoundedHome05 =
+strokeRoundedHome06 =
+strokeRoundedHome07 =
+strokeRoundedHome08 =
+strokeRoundedHome09 =
+strokeRoundedHome10 =
+strokeRoundedHome11 =
+strokeRoundedHome12 =
+strokeRoundedHome13 =
+strokeRoundedHomeWifi =
+strokeRoundedInformationCircle =
+strokeRoundedInformationDiamond =
+strokeRoundedInformationSquare =
+strokeRoundedLock =
+strokeRoundedLockComputer =
+strokeRoundedLocked =
+strokeRoundedLocker =
+strokeRoundedLocker01 =
+strokeRoundedLockKey =
+strokeRoundedLockPassword =
+strokeRoundedLockSync01 =
+strokeRoundedLockSync02 =
+strokeRoundedMail01 =
+strokeRoundedMail02 =
+strokeRoundedMailAccount01 =
+strokeRoundedMailAccount02 =
+strokeRoundedMailAdd01 =
+strokeRoundedMailAdd02 =
+strokeRoundedMailAtSign01 =
+strokeRoundedMailAtSign02 =
+strokeRoundedMailBlock01 =
+strokeRoundedMailBlock02 =
+strokeRoundedMailbox =
+strokeRoundedMailbox01 =
+strokeRoundedMailDownload01 =
+strokeRoundedMailDownload02 =
+strokeRoundedMailEdit01 =
+strokeRoundedMailEdit02 =
+strokeRoundedMailLock01 =
+strokeRoundedMailLock02 =
+strokeRoundedMailLove01 =
+strokeRoundedMailLove02 =
+strokeRoundedMailMinus01 =
+strokeRoundedMailMinus02 =
+strokeRoundedMailOpen =
+strokeRoundedMailOpen01 =
+strokeRoundedMailOpen02 =
+strokeRoundedMailOpenLove =
+strokeRoundedMailQuestionMark =
+strokeRoundedMailReceive01 =
+strokeRoundedMailReceive02 =
+strokeRoundedMailRemove01 =
+strokeRoundedMailRemove02 =
+strokeRoundedMailReply01 =
+strokeRoundedMailReply02 =
+strokeRoundedMailReplyAll01 =
+strokeRoundedMailReplyAll02 =
+strokeRoundedMails =
+strokeRoundedMailSearch01 =
+strokeRoundedMailSearch02 =
+strokeRoundedMailSecure01 =
+strokeRoundedMailSecure02 =
+strokeRoundedMailSend01 =
+strokeRoundedMailSend02 =
+strokeRoundedMailSetting01 =
+strokeRoundedMailSetting02 =
+strokeRoundedMailUnlock01 =
+strokeRoundedMailUnlock02 =
+strokeRoundedMailUpload01 =
+strokeRoundedMailUpload02 =
+strokeRoundedMailValidation01 =
+strokeRoundedMailValidation02 =
+strokeRoundedMailVoice01 =
+strokeRoundedMailVoice02 =
+strokeRoundedMailWarning =
+strokeRoundedMenu01 =
+strokeRoundedMenu02 =
+strokeRoundedMenu03 =
+strokeRoundedMenu04 =
+strokeRoundedMenu05 =
+strokeRoundedMenu06 =
+strokeRoundedMenu07 =
+strokeRoundedMenu08 =
+strokeRoundedMenu09 =
+strokeRoundedMenu10 =
+strokeRoundedMenu11 =
+strokeRoundedMenuCircle =
+strokeRoundedMenuCollapse =
+strokeRoundedMenuRestaurant =
+strokeRoundedMenuSquare =
+strokeRoundedMenuTwoLine =
+strokeRoundedMoon =
+strokeRoundedMoon01 =
+strokeRoundedMoon02 =
+strokeRoundedMoonAngledRainZap =
+strokeRoundedMoonCloud =
+strokeRoundedMoonCloudAngledRain =
+strokeRoundedMoonCloudAngledZap =
+strokeRoundedMoonCloudBigRain =
+strokeRoundedMoonCloudFastWind =
+strokeRoundedMoonCloudHailstone =
+strokeRoundedMoonCloudLittleRain =
+strokeRoundedMoonCloudLittleSnow =
+strokeRoundedMoonCloudMidRain =
+strokeRoundedMoonCloudMidSnow =
+strokeRoundedMoonCloudSlowWind =
+strokeRoundedMoonCloudSnow =
+strokeRoundedMoonEclipse =
+strokeRoundedMoonFastWind =
+strokeRoundedMoonLanding =
+strokeRoundedMoonset =
+strokeRoundedMoonSlowWind =
+strokeRoundedMoreVertical =
+strokeRoundedMoreVerticalCircle01 =
+strokeRoundedMoreVerticalCircle02 =
+strokeRoundedMoreVerticalSquare01 =
+strokeRoundedMoreVerticalSquare02 =
+strokeRoundedMusic3 =
+strokeRoundedMusicNote01 =
+strokeRoundedMusicNote02 =
+strokeRoundedMusicNote03 =
+strokeRoundedMusicNote04 =
+strokeRoundedMusicNoteSquare01 =
+strokeRoundedMusicNoteSquare02 =
+strokeRoundedNext =
+strokeRoundedNextWeek =
+strokeRoundedNotification01 =
+strokeRoundedNotification02 =
+strokeRoundedNotification03 =
+strokeRoundedNotificationBlock01 =
+strokeRoundedNotificationBlock02 =
+strokeRoundedNotificationBlock03 =
+strokeRoundedNotificationBubble =
+strokeRoundedNotificationCircle =
+strokeRoundedNotificationOff01 =
+strokeRoundedNotificationOff02 =
+strokeRoundedNotificationOff03 =
+strokeRoundedNotificationSnooze01 =
+strokeRoundedNotificationSnooze02 =
+strokeRoundedNotificationSnooze03 =
+strokeRoundedNotificationSquare =
+strokeRoundedPause =
+strokeRoundedPauseCircle =
+strokeRoundedPlay =
+strokeRoundedPlayCircle =
+strokeRoundedPlayCircle02 =
+strokeRoundedPlayList =
+strokeRoundedPlaylist01 =
+strokeRoundedPlaylist02 =
+strokeRoundedPlaylist03 =
+strokeRoundedPlayListAdd =
+strokeRoundedPlayListFavourite01 =
+strokeRoundedPlayListFavourite02 =
+strokeRoundedPlayListMinus =
+strokeRoundedPlayListRemove =
+strokeRoundedPlaySquare =
+strokeRoundedPlayStore =
+strokeRoundedPrevious =
+strokeRoundedRefresh =
+strokeRoundedRefresh01 =
+strokeRoundedRefresh03 =
+strokeRoundedRefresh04 =
+strokeRoundedRefreshDot =
+strokeRoundedRepeat =
+strokeRoundedRepeatOff =
+strokeRoundedRepeatOne01 =
+strokeRoundedRepeatOne02 =
+strokeRoundedSearch01 =
+strokeRoundedSearch02 =
+strokeRoundedSearchAdd =
+strokeRoundedSearchArea =
+strokeRoundedSearchCircle =
+strokeRoundedSearchCode =
+strokeRoundedSearchDollar =
+strokeRoundedSearchFocus =
+strokeRoundedSearching =
+strokeRoundedSearchList01 =
+strokeRoundedSearchList02 =
+strokeRoundedSearchMinus =
+strokeRoundedSearchRemove =
+strokeRoundedSearchReplace =
+strokeRoundedSearchSquare =
+strokeRoundedSearchVisual =
+strokeRoundedSendingOrder =
+strokeRoundedSendToBack =
+strokeRoundedSendToMobile =
+strokeRoundedSendToMobile02 =
+strokeRoundedSettings01 =
+strokeRoundedSettings02 =
+strokeRoundedSettings03 =
+strokeRoundedSettings04 =
+strokeRoundedSettings05 =
+strokeRoundedSettingsError01 =
+strokeRoundedSettingsError02 =
+strokeRoundedShare01 =
+strokeRoundedShare02 =
+strokeRoundedShare03 =
+strokeRoundedShare04 =
+strokeRoundedShare05 =
+strokeRoundedShare06 =
+strokeRoundedShare07 =
+strokeRoundedShare08 =
+strokeRoundedSharedDrive =
+strokeRoundedSharedWifi =
+strokeRoundedShareKnowledge =
+strokeRoundedShareLocation01 =
+strokeRoundedShareLocation02 =
+strokeRoundedShuffle =
+strokeRoundedShuffleSquare =
+strokeRoundedStar =
+strokeRoundedStarAward01 =
+strokeRoundedStarAward02 =
+strokeRoundedStarCircle =
+strokeRoundedStarFace =
+strokeRoundedStarHalf =
+strokeRoundedStarOff =
+strokeRoundedStars =
+strokeRoundedStarSquare =
+strokeRoundedStartUp01 =
+strokeRoundedStartUp02 =
+strokeRoundedTick01 =
+strokeRoundedTick02 =
+strokeRoundedTick03 =
+strokeRoundedTick04 =
+strokeRoundedTickDouble01 =
+strokeRoundedTickDouble02 =
+strokeRoundedTickDouble03 =
+strokeRoundedTickDouble04 =
+strokeRoundedTicket01 =
+strokeRoundedTicket02 =
+strokeRoundedTicket03 =
+strokeRoundedTicketStar =
+strokeRoundedUser =
+strokeRoundedUser02 =
+strokeRoundedUser03 =
+strokeRoundedUserAccount =
+strokeRoundedUserAdd01 =
+strokeRoundedUserAdd02 =
+strokeRoundedUserAi =
+strokeRoundedUserArrowLeftRight =
+strokeRoundedUserBlock01 =
+strokeRoundedUserBlock02 =
+strokeRoundedUserCheck01 =
+strokeRoundedUserCheck02 =
+strokeRoundedUserCircle =
+strokeRoundedUserCircle02 =
+strokeRoundedUserDollar =
+strokeRoundedUserEdit01 =
+strokeRoundedUserFullView =
+strokeRoundedUserGroup =
+strokeRoundedUserGroup02 =
+strokeRoundedUserGroup03 =
+strokeRoundedUserIdVerification =
+strokeRoundedUserList =
+strokeRoundedUserLock01 =
+strokeRoundedUserLock02 =
+strokeRoundedUserLove01 =
+strokeRoundedUserLove02 =
+strokeRoundedUserMinus01 =
+strokeRoundedUserMinus02 =
+strokeRoundedUserMultiple =
+strokeRoundedUserMultiple02 =
+strokeRoundedUserMultiple03 =
+strokeRoundedUserQuestion01 =
+strokeRoundedUserQuestion02 =
+strokeRoundedUserRemove01 =
+strokeRoundedUserRemove02 =
+strokeRoundedUserRoadside =
+strokeRoundedUserSearch01 =
+strokeRoundedUserSearch02 =
+strokeRoundedUserSettings01 =
+strokeRoundedUserSettings02 =
+strokeRoundedUserSharing =
+strokeRoundedUserShield01 =
+strokeRoundedUserShield02 =
+strokeRoundedUserSquare =
+strokeRoundedUserStar01 =
+strokeRoundedUserStar02 =
+strokeRoundedUserStatus =
+strokeRoundedUserStory =
+strokeRoundedUserSwitch =
+strokeRoundedUserTime01 =
+strokeRoundedUserTime02 =
+strokeRoundedUserTime03 =
+strokeRoundedUserUnlock01 =
+strokeRoundedUserUnlock02 =
+strokeRoundedUserWarning01 =
+strokeRoundedUserWarning02 =
+strokeRoundedUserWarning03 =
+strokeRoundedVolumeHigh =
+strokeRoundedVolumeLow =
+strokeRoundedVolumeMinus =
+strokeRoundedVolumeMute01 =
+strokeRoundedVolumeMute02 =
+strokeRoundedVolumeOff =
+strokeRoundedVolumeUp =
